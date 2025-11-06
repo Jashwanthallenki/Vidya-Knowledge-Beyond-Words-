@@ -12,7 +12,7 @@ Children with dyslexia often face challenges in **reading, writing, and spelling
 
 Traditional therapy is effective but **time-consuming, non-scalable, and lacks real-time personalization**.  
 
-That’s where **Joyverse** steps in.
+That’s where **Vidya** steps in.
 
 ---
 
@@ -52,7 +52,7 @@ Meet **Lexi**, the friendly AI companion guiding each child.
 ---
 
 ### 🎯 Adaptive Learning Engine
-Joyverse personalizes learning using **smart analytics**:
+Vidya personalizes learning using **smart analytics**:
 
 - Tracks **speed, accuracy, and confusion patterns** (like b/d or p/q).  
 - Adapts exercises automatically for maximum effectiveness.  
@@ -88,7 +88,7 @@ Therapists get **data-driven insights** into every child’s progress:
 
 ## 🌍 Why Vidya?
 
-| **Traditional Therapy** | **With Joyverse** |
+| **Traditional Therapy** | **With Vidya** |
 |------------------------|-----------------|
 | Time-intensive | AI automation & real-time feedback |
 | Emotionally draining | Encouraging, playful support |
@@ -123,9 +123,9 @@ To make learning **joyful, inclusive, and empowering** —
 so that every child, regardless of how they read or write,  
 can feel **seen, supported, and celebrated**.
 
-> **Joyverse** — Because every mind deserves its own rhythm.
+> **Vidya** — Because every mind deserves its own rhythm.
 
 ---
 
 ## 🧾 License
-MIT License © 2025 Joyverse Team
+MIT License © 2025 Vidya Team
