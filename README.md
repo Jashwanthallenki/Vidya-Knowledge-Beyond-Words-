@@ -18,7 +18,7 @@ That’s where **Joyverse** steps in.
 
 ## 💡 What is Vidya?
 
-**Joyverse** is an **AI-powered assistive platform** designed to support dyslexic children through **engaging, therapist-supervised games and activities**.  
+**Vidya** is an **AI-powered assistive platform** designed to support dyslexic children through **engaging, therapist-supervised games and activities**.  
 It connects **children, therapists, and parents** in one adaptive ecosystem — making learning **fun, personalized, and emotionally supportive.**
 
 ---
