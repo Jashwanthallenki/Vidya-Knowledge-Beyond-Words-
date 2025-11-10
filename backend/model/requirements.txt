@@ -5,7 +5,7 @@ flask-cors==3.0.10
 
 # --- Deep Learning / ML ---
 torch==2.5.1
-torchvision==0.20.1
+torchvision==0.24.0
 torchaudio==2.5.1
 
 # --- Media and Computer Vision ---
