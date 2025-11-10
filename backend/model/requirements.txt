@@ -1,8 +1,17 @@
+# --- Web Framework ---
 Flask==2.2.2
-werkzeug==2.2.2
-torch>=2.5.0
-mediapipe>=0.10.9
-opencv-python
-numpy
-requests
+Werkzeug==2.2.2
 flask-cors==3.0.10
+
+# --- Deep Learning / ML ---
+torch==2.5.1
+torchvision==0.20.1
+torchaudio==2.5.1
+
+# --- Media and Computer Vision ---
+mediapipe==0.10.9
+opencv-python>=4.8.0.74
+numpy>=1.24.0
+
+# --- Networking / Utilities ---
+requests>=2.31.0
